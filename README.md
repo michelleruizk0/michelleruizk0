@@ -2,7 +2,7 @@
 
 <!-- Animaciones --> 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<img src="https://i.pinimg.com/originals/07/85/75/078575839a412d59f2529ecd295126b7.gif" width="50%">
+<img src="https://i.pinimg.com/originals/07/85/75/078575839a412d59f2529ecd295126b7.gif" width="100%">
 
 <!-- About me -->
 
