@@ -11,8 +11,7 @@
 ```
 I'm a Computer Engineering student
 ----------------------------------
-💻 I am a self-taught Full Stack Developer and a
-Machine Learning Developer
+💻 I am a self-taught Full 
 
 📚 I'm studying at UPIICSA a college in Mexico City
 
