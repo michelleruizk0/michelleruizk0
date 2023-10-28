@@ -41,12 +41,88 @@ I'm a Computer Engineering student
 
 <!-- Linea --> 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<img align="left" src="https://i.pinimg.com/originals/91/c7/56/91c75640703760e350f6e197fd4c2413.gif" width="50%" height="226px"style="margin-right: 20px"/>
-<img align="right" src="https://i.pinimg.com/originals/e4/19/97/e41997a7e624239e587b27fe07f15367.gif" width="50%"  style="margin-right: 20px"/>
+<!--GIF's-->
+<img align="left" src="https://i.pinimg.com/originals/91/c7/56/91c75640703760e350f6e197fd4c2413.gif" width="50%" height="226px" style="margin-right: 20px"/>
+<img align="right" src="https://i.pinimg.com/originals/e4/19/97/e41997a7e624239e587b27fe07f15367.gif" width="50%" height="226px" style="margin-right: 20px"/>
 <br>
 
-<!--Ranking Videogames | Movies | Artists/Bands -->
+<!--Ranking Videogames-->
+ <p topgames, float='left'>
+  <br>
+  <h1>Top Favorites Games</h1>
+  <p></p>
+  <table style='width:100%'>
+    <tr align='center'>
+      <td><img src='https://images.weserv.nl/?mask=circle&url=https://github.com/michelleruizk0/michelleruizk0/assets/147785271/23df2799-62d4-4ed2-b307-c2d362703202'
+style='width:70%'>
+      </td>
+      <td><img src='https://images.weserv.nl/?mask=circle&url=https://github.com/michelleruizk0/michelleruizk0/assets/147785271/89e902af-0557-416c-be5a-42f810c4866a' style='width:70%'>
+      </td>
+      <td><img src='https://images.weserv.nl/?mask=circle&url=https://github.com/michelleruizk0/michelleruizk0/assets/147785271/e86467a1-bbaa-46d6-a59f-fb5ebe2db575' style='width:70%'>
+      </td>
+      <td><img src='https://images.weserv.nl/?mask=circle&url=https://github.com/michelleruizk0/michelleruizk0/assets/147785271/bcc760fe-3373-4011-a0c4-0fe890d2ec67' style='width:70%'>
+      </td>
+      <td><img src='https://images.weserv.nl/?mask=circle&url=https://github.com/michelleruizk0/michelleruizk0/assets/147785271/7ed613a1-5b5e-4711-baa0-1347b02820dc' style='width:70%'>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      <h6>No. 1 Left 4 Dead</h6>
+      </td>
+      <td>
+      <h6>No. 2 The Last of Us</h6>
+      </td>
+      <td>
+      <h6>No. 3 Crash Nitro Kart</h6>
+      </td>
+      <td>
+      <h6>No. 4 Ratatouille</h6>
+      </td>
+      <td>
+      <h6>No. 5 Saints Row II</h6>
+      </td>
+    </tr>
+  </table>
+</p recentlyplayed>
 
+<!--Ranking Movies/Series-->
+<p topmovies, float='left'>
+  <br>
+  <h1>Top Favorites Movies & Series</h1>
+  <p></p>
+  <table style='width:100%'>
+    <tr align='center'>
+      <td><img src='https://images.weserv.nl/?mask=circle&url=https://github.com/michelleruizk0/michelleruizk0/assets/147785271/129a8ac1-12d9-4871-8a3f-b1cc167a2391'
+style='width:60%'>
+      </td>
+      <td><img src='https://images.weserv.nl/?mask=circle&url=https://github.com/michelleruizk0/michelleruizk0/assets/147785271/6b7816c3-ffff-4cd7-86f7-c8c8368c9eb7' style='width:60%'>
+      </td>
+      <td><img src='https://images.weserv.nl/?mask=circle&url=https://github.com/michelleruizk0/michelleruizk0/assets/147785271/0a74752f-4414-48ff-af1c-70915ba902bc' style='width:60%'>
+      </td>
+      <td><img src='https://images.weserv.nl/?mask=circle&url=https://github.com/michelleruizk0/michelleruizk0/assets/147785271/ce1dfd64-abcb-41fe-b328-958cb0257435' style='width:60%'>
+      </td>
+      <td><img src='https://images.weserv.nl/?mask=circle&url=https://github.com/michelleruizk0/michelleruizk0/assets/147785271/0b49f099-d609-418e-970b-cf21471a5b32' style='width:60%'>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      <h6>No. 1 Malcolm in the Middle</h6>
+      </td>
+      <td>
+      <h6>No. 2 Spiderman</h6>
+      </td>
+      <td>
+      <h6>No. 3 Isle of Dogs</h6>
+      </td>
+      <td>
+      <h6>No. 4 Catdog</h6>
+      </td>
+      <td>
+      <h6>No. 5 Love Dead and Robots</h6>
+      </td>
+    </tr>
+  </table>
+</p movies>
 
 <!-- Linea --> 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
