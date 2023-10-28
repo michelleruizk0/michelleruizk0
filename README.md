@@ -13,13 +13,11 @@
 ```
 I'm a Computer Engineering student
 ----------------------------------
-💻 I am a self-taught Full 
+💻  Learning about software stuff
 
-📚 I'm studying at UPIICSA a college in Mexico City
+📚 I'm studying at UPIICSA 
 
 📝 I have a strong interest in developing video games
-
-🌱 Learning about software stuff
 
 🚩 Interested in Frontend development, design and programming
 
