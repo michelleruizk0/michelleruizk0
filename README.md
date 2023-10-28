@@ -29,12 +29,12 @@ I'm a Computer Engineering student
 <!--CONTACT-->
 <h3 align="center">SOCIAL MEDIA</h3>
 <div align="center">
-   <a href="https://www.pinterest.com.mx/michelleruizk/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/147785271/278776188-d5d1e78f-160d-49b8-9205-ef19a763125c.png" width="50px"></a>
-    <a href="https://twitch.com/michelleruizk"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/147785271/278776572-3c68405f-9d89-475b-9298-7a791375a22d.png" width="50px"></a>
-    <a href="https://www.linkedin.com/in/michelle-ruiz-segura-23a089254/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/147785271/278776622-fec9c8b1-5e35-43db-9f83-441cfe2df8e3.png" width="50px"></a>
-    <a href="https://discord.com/channels/803484212450689044/809249924801626112"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/147785271/278777186-af74ca89-bb01-4b8b-8dc8-c165dd4a7b02.png" width="50px"></a>
-    <a href="https://www.instagram.com/michelleruizk/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/147785271/278776722-894182c3-a190-4527-8aa7-f71cdb3f0868.png" width="50px"></a>
-    <a href="https://open.spotify.com/user/222jjlsa5yk5d3wy47au7rsfy"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/147785271/278781000-15cbda7d-7596-42a8-b940-23b19ea26362.png" width="50px"/></a>
+   <a href="https://www.pinterest.com.mx/michelleruizk/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/147785271/278776188-d5d1e78f-160d-49b8-9205-ef19a763125c.png" width="35px"></a>
+    <a href="https://twitch.com/michelleruizk"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/147785271/278776572-3c68405f-9d89-475b-9298-7a791375a22d.png" width="35px"></a>
+    <a href="https://www.linkedin.com/in/michelle-ruiz-segura-23a089254/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/147785271/278776622-fec9c8b1-5e35-43db-9f83-441cfe2df8e3.png" width="35px"></a>
+    <a href="https://discord.com/channels/803484212450689044/809249924801626112"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/147785271/278777186-af74ca89-bb01-4b8b-8dc8-c165dd4a7b02.png" width="35px"></a>
+    <a href="https://www.instagram.com/michelleruizk/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/147785271/278776722-894182c3-a190-4527-8aa7-f71cdb3f0868.png" width="35px"></a>
+    <a href="https://open.spotify.com/user/222jjlsa5yk5d3wy47au7rsfy"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/147785271/278781000-15cbda7d-7596-42a8-b940-23b19ea26362.png" width="35px"/></a>
 </div>
 
 <!-- Linea --> 
